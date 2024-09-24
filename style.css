@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.HOME{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.SERVICES{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.TEAM{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.ABOUT{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.REVIEWS{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.PROJECTS{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.PLANS{
+    height: 30px;
+    width: 90px;
+    background-color: red;
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    background-color: white;
+    margin-top: 10px;
+    position: sticky;
+    top: 0;
+}
+.header a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+}
+.home {
+    background-color: antiquewhite;
+    height: 350px;
+    margin-top: 10px;
+}
+.home h2{
+    padding-top: 35px;
+}
+.services {
+    background-color: aqua;
+    height: 350px;
+    margin-top: 10px;
+}
+.services h2{
+    padding-top: 35px;
+}
+.team {
+    background-color: aquamarine;
+    height: 350px;
+    margin-top: 10px;
+}
+.team h2{
+    padding-top: 35px;
+}
+.about {
+    background-color: blueviolet;
+    height: 350px;
+    margin-top: 10px;
+}
+.about h2{
+    padding-top: 35px;
+}
+.reviews {
+    background-color: brown;
+    height: 350px;
+    margin-top: 10px;
+}
+.reviews h2{
+    padding-top: 35px;
+}
+.projects {
+    background-color: chartreuse;
+    height: 350px;
+    margin-top: 10px;
+}
+.projects h2{
+    padding-top: 35px;
+}
+.plans {
+    background-color: cornflowerblue;
+    height: 350px;
+    margin-top: 10px;
+}
+.plans h2{
+    padding-top: 35px;
+}
+    
